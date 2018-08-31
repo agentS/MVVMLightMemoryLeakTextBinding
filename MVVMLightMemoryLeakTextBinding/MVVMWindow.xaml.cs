@@ -16,11 +16,11 @@ using System.Windows.Shapes;
 namespace MVVMLightMemoryLeakTextBinding
 {
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for MVVMWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class MVVMWindow : Window
     {
-        public MainWindow()
+        public MVVMWindow()
         {
             InitializeComponent();
         }
